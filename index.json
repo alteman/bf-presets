@@ -156,7 +156,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/bnf/qwad.txt",
-      "hash": "130563625825e68529f8419c629da3123a8ec83653e1c0638b910f4b7b2994fa",
+      "hash": "80a1f71b4ccffd1ddcc99aa6b8182f349574930fea8a32aa8ab2a56d62ebf71d",
       "title": "Universal preset (alteman)",
       "firmware_version": [
         "4.5"
@@ -174,7 +174,6 @@
         "3.5\""
       ],
       "author": "alteman",
-      "force_options_review": true,
       "priority": 0
     }
   ]

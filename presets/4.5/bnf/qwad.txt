@@ -6,7 +6,6 @@
 #$ AUTHOR: alteman
 #$ PARSER: MARKED
 #$ DESCRIPTION: Complete setup 
-#$ FORCE_OPTIONS_REVIEW: TRUE
 
 # Apply defaults or other presets maybe?
 # #$ INCLUDE_WARNING: misc/warnings/en/rpm_filters.txt
